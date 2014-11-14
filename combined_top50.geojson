@@ -1,0 +1,740 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    4.6060138000000004,
+                    52.456954400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "IJMUIDEN",
+                "Ship name": "CORNELIS VROLIJK FZN",
+                "Total quota": "457166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.3085747999999997,
+                    54.996612399999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LONDONDERRY",
+                "Ship name": "VOYAGER",
+                "Total quota": "405537"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "CHRIS ANDRA",
+                "Total quota": "292143"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "PATHWAY",
+                "Total quota": "290352"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "QUANTUS",
+                "Total quota": "173995"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "CHRISTINA S",
+                "Total quota": "168076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.95373660000000005,
+                    60.2915931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "WHALSAY AND SKERRIES",
+                "Ship name": "RESEARCH W",
+                "Total quota": "163974"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "LUNAR BOW",
+                "Total quota": "159377"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.0069414999999999,
+                    54.063035900000003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "KILKEEL",
+                "Ship name": "ANTARES",
+                "Total quota": "143834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.0069414999999999,
+                    54.063035900000003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "KILKEEL",
+                "Ship name": "ZEPHYR",
+                "Total quota": "139434"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1426565000000002,
+                    50.375456499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PLYMOUTH",
+                "Ship name": "WIRON 5",
+                "Total quota": "126957"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.3330000000000002,
+                    57.665999999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "GARDENSTOWN",
+                "Ship name": "RESOLUTE",
+                "Total quota": "121454"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "CHALLENGE",
+                "Total quota": "113399"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "TAITS",
+                "Total quota": "101411"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "OCEAN QUEST",
+                "Total quota": "99437"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.4474299999999998,
+                    54.46208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PORTAVOGIE",
+                "Ship name": "OCEAN VENTURE",
+                "Total quota": "95333"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.497849,
+                    57.670589999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "MACDUFF",
+                "Ship name": "CHARISMA",
+                "Total quota": "90624"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.497849,
+                    57.670589999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "MACDUFF",
+                "Ship name": "CHARISMA",
+                "Total quota": "90624"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.497849,
+                    57.670589999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "MACDUFF",
+                "Ship name": "CHARISMA",
+                "Total quota": "90624"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "FOREVER GRATEFUL",
+                "Total quota": "90321"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.651159,
+                    55.581147999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "SEAHOUSES",
+                "Ship name": "UNITY",
+                "Total quota": "80136"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.33674130000000002,
+                    53.7456709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "HULL",
+                "Ship name": "FARNELLA",
+                "Total quota": "74246"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1426565000000002,
+                    50.375456499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PLYMOUTH",
+                "Ship name": "WIRON 6",
+                "Total quota": "72722"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.95373660000000005,
+                    60.2915931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "WHALSAY AND SKERRIES",
+                "Ship name": "ANTARCTIC II",
+                "Total quota": "71216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.33674130000000002,
+                    53.7456709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "HULL",
+                "Ship name": "ARCTIC WARRIOR",
+                "Total quota": "70379"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1426565000000002,
+                    50.375456499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PLYMOUTH",
+                "Ship name": "ADMIRAL GORDON",
+                "Total quota": "55064"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.9301199999999996,
+                    54.597284999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "BELFAST",
+                "Ship name": "HAVILAH",
+                "Total quota": "54041"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.080783999999999995,
+                    53.567470999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "GRIMSBY",
+                "Ship name": "NORMA MARY",
+                "Total quota": "43159"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "AUDACIOUS",
+                "Total quota": "40372"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.449138,
+                    55.010762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "NORTH SHIELDS",
+                "Ship name": "OUR LASS III",
+                "Total quota": "32714"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.9622489999999999,
+                    58.984673999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "KIRKWALL",
+                "Ship name": "AALSKERE",
+                "Total quota": "32335"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1426565000000002,
+                    50.375456499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PLYMOUTH",
+                "Ship name": "PROVIDER II",
+                "Total quota": "26634"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.61015,
+                    54.260190000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "ARDGLASS",
+                "Ship name": "BOY ANDREW",
+                "Total quota": "25893"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580352,
+                    57.676859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "WHITEHILLS",
+                "Ship name": "VENTURE II",
+                "Total quota": "24431"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "ACHIEVE",
+                "Total quota": "24193"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "OPPORTUNE",
+                "Total quota": "23262"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "HARVEST HOPE",
+                "Total quota": "22387"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "ATLANTIC CHALLENGE",
+                "Total quota": "22104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.753449,
+                    52.481138000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LOWESTOFT",
+                "Ship name": "WILHELMINA",
+                "Total quota": "20955"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.542114999999995,
+                    29.818467999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "WESTRAY",
+                "Ship name": "KEILA",
+                "Total quota": "20866"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "ROSEBLOOM",
+                "Total quota": "19773"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.753449,
+                    52.481138000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LOWESTOFT",
+                "Ship name": "HENDRIK BRANDS",
+                "Total quota": "19345"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.7874619999999997,
+                    50.270076000000003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "MEVAGISSEY",
+                "Ship name": "OCEAN HARVEST",
+                "Total quota": "18544"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.2092879999999999,
+                    56.963661000000002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "STONEHAVEN",
+                "Ship name": "HARVESTER",
+                "Total quota": "18539"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "OCEAN BOUNTY",
+                "Total quota": "18465"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "TRANQUILITY",
+                "Total quota": "18382"
+            },
+            "type": "Feature"
+        }
+    ]
+}

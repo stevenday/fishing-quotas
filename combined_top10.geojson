@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    4.6060138000000004,
+                    52.456954400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "IJMUIDEN",
+                "Ship name": "CORNELIS VROLIJK FZN",
+                "Total quota": "457166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.3085747999999997,
+                    54.996612399999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LONDONDERRY",
+                "Ship name": "VOYAGER",
+                "Total quota": "405537"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "CHRIS ANDRA",
+                "Total quota": "292143"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "PATHWAY",
+                "Total quota": "290352"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7840659999999999,
+                    57.508122999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "PETERHEAD",
+                "Ship name": "QUANTUS",
+                "Total quota": "173995"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.0076309999999999,
+                    57.693351999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "FRASERBURGH",
+                "Ship name": "CHRISTINA S",
+                "Total quota": "168076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.95373660000000005,
+                    60.2915931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "WHALSAY AND SKERRIES",
+                "Ship name": "RESEARCH W",
+                "Total quota": "163974"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1445689999999999,
+                    60.155822999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Home port": "LERWICK",
+                "Ship name": "SERENE",
+                "Total quota": "160038"
+            },
+            "type": "Feature"
+        },
+    ],
+    "type": "FeatureCollection"
+}

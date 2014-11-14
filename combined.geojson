@@ -13515,13 +13515,6 @@
                 "Total quota": "1"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {},
-            "properties": {
-                "Ship name": ""
-            },
-            "type": "Feature"
         }
     ]
 }
